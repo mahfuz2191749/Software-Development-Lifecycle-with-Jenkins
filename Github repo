@@ -1,0 +1,4 @@
+git clone https://github.com/mahfuz2191749/Software-Development-Lifecycle-with-Jenkins.git ~/code/my-repo
+cd ~/code/my-repo
+git config --global user.email "u2191749@uel.ac.uk"
+git config --global user.name "<Md Mahfuzur> <Rahman>"
